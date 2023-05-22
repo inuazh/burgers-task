@@ -75,6 +75,9 @@ body {
 
 .logo img {
     vertical-align: bottom;
+    width: 100px;
+    background: white;
+    border-radius: 30%;
 }
 
 .menu {
